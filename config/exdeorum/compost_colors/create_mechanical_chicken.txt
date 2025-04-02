@@ -1,2 +1,0 @@
-// Compost colors for create_mechanical_chicken. You may add your own colors, change existing ones, or remove colors that aren't needed.
-chicken_nutrient_bucket, #aaaf8e
