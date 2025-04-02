@@ -1,0 +1,7 @@
+{
+    "name": "FUNC",
+    "version": "0.0.4",
+    "overrides": [
+        "config"
+    ]
+}
