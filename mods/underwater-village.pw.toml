@@ -1,0 +1,13 @@
+name = "Underwater Village"
+filename = "underwater_village-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c63ee13b28b8d86e72e722d25a17223d98fdd77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6352839
+project-id = 1228716

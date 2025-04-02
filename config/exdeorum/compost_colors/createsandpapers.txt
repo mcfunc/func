@@ -1,0 +1,21 @@
+// Compost colors for createsandpapers. You may add your own colors, change existing ones, or remove colors that aren't needed.
+arid_sand_paper, #ffffc2
+black_sand_paper, #515a61
+blue_sand_paper, #b1defb
+brown_sand_paper, #c3a072
+coral_sand_paper, #ffffff
+foamy_sand_paper, #ebffff
+green_sand_paper, #bfd4a2
+mars_sand_paper, #ffcc89
+mineral_sand_paper, #ffffff
+moon_sand_paper, #7d8a8e
+orange_sand_paper, #ffe7c5
+pink_sand_paper, #e0aeed
+quartzite_sand_paper, #ffffff
+red_arid_sand_paper, #fff2aa
+soul_sand_paper, #836452
+soulless_sand_paper, #785c4b
+venus_sand_paper, #ffee87
+violet_sand_paper, #d6c2f2
+white_sand_paper, #ffffff
+windswept_sand_paper, #f7cac9

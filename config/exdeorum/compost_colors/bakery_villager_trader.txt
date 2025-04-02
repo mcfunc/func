@@ -1,0 +1,11 @@
+// Compost colors for bakery_villager_trader. You may add your own colors, change existing ones, or remove colors that aren't needed.
+apple_pie, #fffff5
+bread_armor_boots, #ac7f23
+bread_armor_chestplate, #b98725
+bread_armor_helmet, #aa7c25
+bread_armor_leggings, #b68425
+bread_axe, #b58323
+bread_sword, #a77a23
+chocolate_cake, #90654a
+croissant, #a25b00
+sweetberry_pie, #fffff1

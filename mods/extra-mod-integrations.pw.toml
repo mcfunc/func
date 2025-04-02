@@ -1,0 +1,13 @@
+name = "EMI Extra Integrations"
+filename = "extra-mod-integrations-all-neoforge-1.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd8788c43f5d22af69eab73617357055bdd85171"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6359620
+project-id = 739970
