@@ -1,11 +1,11 @@
 name = "FUNC"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e59dfbea5465b5e2fb07d50e317f320afb6cd8d08c76986f0fd1eb453d346c7a"
+hash = "3a41a92bc9807c80a7cb879addf76ccec0ae3b3b54ff4b255df4df5c2a6ee659"
 
 [versions]
 minecraft = "1.21.1"

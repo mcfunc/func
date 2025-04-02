@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "68b96f3ba023a9c1bf8db5cf2802202e0f83da28e360d8098ef6ee9f27a3f17d"
+
+[[files]]
 file = "config/Mekanism/client.toml"
 hash = "d6f8dfb6ac313566736773e428a754e37b14302a872a6647629aa74ef6a4eca7"
 
@@ -1806,7 +1810,3 @@ metafile = true
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "985e609e06ea0fb50e006214e70948f0067f5ac6995031963d811ee0422ecb6f"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "094f7df9edd30a8e697d94dd3da5af44f4fb0de8fc400f8b71f133501e88e1e3"
