@@ -812,6 +812,47 @@
             ]
         },
         {
+            "pakku_id": "0xThWDwUhSDqMgsf",
+            "pakku_links": [
+                "ztiVksKEpVuFcvI7"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "connector-extras"
+            },
+            "name": {
+                "curseforge": "Connector Extras"
+            },
+            "id": {
+                "curseforge": "913445"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ConnectorExtras-1.12.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5618/470/ConnectorExtras-1.12.1+1.21.1.jar",
+                    "id": "5618470",
+                    "parent_id": "913445",
+                    "hashes": {
+                        "sha1": "8ea07df55b26c8343d06df77936505a23e0d2140",
+                        "md5": "e9c1e6a2818a67565cdeb03b811d6589"
+                    },
+                    "required_dependencies": [
+                        "890127"
+                    ],
+                    "size": 86284,
+                    "date_published": "2024-08-11T15:23:37.413Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "d4CaWDm7KUmJVDHL",
             "type": "MOD",
             "slug": {
@@ -1298,42 +1339,6 @@
                     "required_dependencies": [],
                     "size": 401578,
                     "date_published": "2025-04-04T12:58:15.560Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "BBjpmOwk3tFkuoWm",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "dank-storage"
-            },
-            "name": {
-                "curseforge": "Dank Storage"
-            },
-            "id": {
-                "curseforge": "335673"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "dankstorage-neoforge-1.21.1-19.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6194/13/dankstorage-neoforge-1.21.1-19.jar",
-                    "id": "6194013",
-                    "parent_id": "335673",
-                    "hashes": {
-                        "sha1": "13ca33179ceef3948ee978097edcddebf9a91afa",
-                        "md5": "6daaa1efc4a3139f004eb1e3973c365b"
-                    },
-                    "required_dependencies": [],
-                    "size": 252656,
-                    "date_published": "2025-02-14T21:50:05.730Z"
                 }
             ]
         },
@@ -2068,10 +2073,12 @@
             ]
         },
         {
-            "pakku_id": "NkpuSpbIxuB8tPGX",
+            "pakku_id": "iL2fGY4fWMcOxImd",
             "pakku_links": [
-                "O4iaOdQg5s16wAJO",
-                "apKIQwnaC4MmU9GD"
+                "J0NtxLYPKDgOj9BE",
+                "9ruoc5GaEJTtCOQ6",
+                "9OyjfGZOyolmaaet",
+                "0y995AumzzaV77JF"
             ],
             "type": "MOD",
             "slug": {
@@ -2536,6 +2543,42 @@
                     "required_dependencies": [],
                     "size": 521256,
                     "date_published": "2025-03-16T14:06:28.537Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uok8Ciptk7iYmuFB",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "forgified-fabric-api"
+            },
+            "name": {
+                "curseforge": "Forgified Fabric API"
+            },
+            "id": {
+                "curseforge": "889079"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6370/322/forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar",
+                    "id": "6370322",
+                    "parent_id": "889079",
+                    "hashes": {
+                        "sha1": "9a5bfbd3fe9557189f04ba22744adcabdccb437b",
+                        "md5": "591bbeca2557e76eabff16ffa72a2ac8"
+                    },
+                    "required_dependencies": [],
+                    "size": 5505219,
+                    "date_published": "2025-03-31T10:54:22.843Z"
                 }
             ]
         },
@@ -4205,6 +4248,47 @@
             ]
         },
         {
+            "pakku_id": "ztiVksKEpVuFcvI7",
+            "pakku_links": [
+                "uok8Ciptk7iYmuFB"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sinytra-connector"
+            },
+            "name": {
+                "curseforge": "Sinytra Connector"
+            },
+            "id": {
+                "curseforge": "890127"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "connector-2.0.0-beta.7+1.21.1-full.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6237/27/connector-2.0.0-beta.7+1.21.1-full.jar",
+                    "id": "6237027",
+                    "parent_id": "890127",
+                    "hashes": {
+                        "sha1": "2fb03d4b20e1044db0db96d300318d24c94eb691",
+                        "md5": "9c1b18e9cfb24e02a49a46bc101d698b"
+                    },
+                    "required_dependencies": [
+                        "889079"
+                    ],
+                    "size": 4485071,
+                    "date_published": "2025-02-25T22:46:15.960Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "J9aEogzq5V21GquD",
             "pakku_links": [
                 "FRkVElCLK7Q20UIq"
@@ -4548,6 +4632,45 @@
                     "required_dependencies": [],
                     "size": 518643,
                     "date_published": "2025-01-11T14:26:02.807Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "czTvfS8bGQeODHjx",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "techreborn"
+            },
+            "name": {
+                "curseforge": "Tech Reborn"
+            },
+            "id": {
+                "curseforge": "233564"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "TechReborn-5.11.15.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6237/942/TechReborn-5.11.15.jar",
+                    "id": "6237942",
+                    "parent_id": "233564",
+                    "hashes": {
+                        "sha1": "82e4cf74232cd6736187d84761e5730ad541ac77",
+                        "md5": "f39ff43084c3fcfc4ec11282b286fff8"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 6426561,
+                    "date_published": "2025-02-26T04:33:00.367Z"
                 }
             ]
         },
