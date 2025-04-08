@@ -538,6 +538,43 @@
             ]
         },
         {
+            "pakku_id": "n15pgTRsxb7TdGOe",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "balm"
+            },
+            "name": {
+                "curseforge": "Balm"
+            },
+            "id": {
+                "curseforge": "531761"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-neoforge-1.21.1-21.0.38.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6362/518/balm-neoforge-1.21.1-21.0.38.jar",
+                    "id": "6362518",
+                    "parent_id": "531761",
+                    "hashes": {
+                        "sha1": "4ffa5f0e776435383866eb747af81e894aef12fa",
+                        "md5": "5e177dd915109c9fe8e467f7cb665b83"
+                    },
+                    "required_dependencies": [],
+                    "size": 473885,
+                    "date_published": "2025-03-29T09:52:50.587Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Jbg1ngH54aqKxn6i",
             "type": "MOD",
             "slug": {
@@ -808,6 +845,48 @@
                     "required_dependencies": [],
                     "size": 1163890,
                     "date_published": "2024-09-16T17:18:01.157Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "I26ukZIFgHFjXNTt",
+            "pakku_links": [
+                "n15pgTRsxb7TdGOe"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cooking-for-blockheads"
+            },
+            "name": {
+                "curseforge": "Cooking for Blockheads"
+            },
+            "id": {
+                "curseforge": "231484"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cookingforblockheads-neoforge-1.21.1-21.1.12.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6270/548/cookingforblockheads-neoforge-1.21.1-21.1.12.jar",
+                    "id": "6270548",
+                    "parent_id": "231484",
+                    "hashes": {
+                        "sha1": "95d33f38ba94abc72779593025e187cbedbbaefd",
+                        "md5": "e76d83632853ca776f1f3c49d9d6ace6"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 1245380,
+                    "date_published": "2025-03-06T10:29:26.913Z"
                 }
             ]
         },
@@ -1107,6 +1186,43 @@
             ]
         },
         {
+            "pakku_id": "S3eCsueqD1bv0R4z",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-recycling-everything-neo"
+            },
+            "name": {
+                "curseforge": "Create: Recycling Everything [NeoForge Port]"
+            },
+            "id": {
+                "curseforge": "1225687"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_recycle_everything-1.0.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6383/172/create_recycle_everything-1.0.1.jar",
+                    "id": "6383172",
+                    "parent_id": "1225687",
+                    "hashes": {
+                        "sha1": "405b43418fded03ef391a9dc9ee3e12a11145e0d",
+                        "md5": "d207f62d242aea2969032abaac39021f"
+                    },
+                    "required_dependencies": [],
+                    "size": 337340,
+                    "date_published": "2025-04-04T05:56:58.877Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Tl16154vvAnBEyGK",
             "type": "MOD",
             "slug": {
@@ -1140,6 +1256,51 @@
                     "required_dependencies": [],
                     "size": 2477387,
                     "date_published": "2025-03-19T09:01:35.230Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "w7yySBYCgDE1MZVj",
+            "pakku_links": [
+                "d4CaWDm7KUmJVDHL"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-structures-arise"
+            },
+            "name": {
+                "curseforge": "Create: Structures Arise"
+            },
+            "id": {
+                "curseforge": "1010066"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_structures_arise-153.26.25-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6396/717/create_structures_arise-153.26.25-neoforge-1.21.1.jar",
+                    "id": "6396717",
+                    "parent_id": "1010066",
+                    "hashes": {
+                        "sha1": "491855d16e58009f247fbcbda6c7ceb295b640de",
+                        "md5": "a4d551de211175ac0fe1f050d59fe1c3"
+                    },
+                    "required_dependencies": [
+                        "624165",
+                        "328085",
+                        "306612"
+                    ],
+                    "size": 1354125,
+                    "date_published": "2025-04-07T21:06:47.050Z"
                 }
             ]
         },
@@ -1975,6 +2136,42 @@
                     "required_dependencies": [],
                     "size": 219559,
                     "date_published": "2024-10-12T12:05:15.910Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "k3axydcydNxdT4S4",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "explorers-compass"
+            },
+            "name": {
+                "curseforge": "Explorer's Compass"
+            },
+            "id": {
+                "curseforge": "491794"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ExplorersCompass-1.21.1-3.0.3-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5756/947/ExplorersCompass-1.21.1-3.0.3-neoforge.jar",
+                    "id": "5756947",
+                    "parent_id": "491794",
+                    "hashes": {
+                        "sha1": "79f4ca411c406222868c60f8f8951a404c403017",
+                        "md5": "675aad57196b098aac724fb987d75561"
+                    },
+                    "required_dependencies": [],
+                    "size": 159182,
+                    "date_published": "2024-09-25T23:43:39.400Z"
                 }
             ]
         },
@@ -4030,7 +4227,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Powah-6.2.2.jar",
+                    "file_name": "Powah-6.2.3.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -4038,19 +4235,19 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6390/625/Powah-6.2.2.jar",
-                    "id": "6390625",
+                    "url": "https://edge.forgecdn.net/files/6397/231/Powah-6.2.3.jar",
+                    "id": "6397231",
                     "parent_id": "633483",
                     "hashes": {
-                        "sha1": "80e7394588886030264d6675bc1a37d98737aa89",
-                        "md5": "357441f283405d10dd366e0b0395a893"
+                        "sha1": "a616a472acd046e18c57852c1a53dfe2af93ecb3",
+                        "md5": "d79d064248f1996611e724fc980674ea"
                     },
                     "required_dependencies": [
-                        "348521",
-                        "1173950"
+                        "1173950",
+                        "348521"
                     ],
-                    "size": 2427384,
-                    "date_published": "2025-04-06T09:39:43.470Z"
+                    "size": 2868482,
+                    "date_published": "2025-04-07T23:36:05.290Z"
                 }
             ]
         },
@@ -4164,6 +4361,42 @@
                     "required_dependencies": [],
                     "size": 484332,
                     "date_published": "2024-12-08T04:44:11.193Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "EdRA0cmVcrkeeMfY",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "rustic-engineer"
+            },
+            "name": {
+                "curseforge": "Rustic Engineer"
+            },
+            "id": {
+                "curseforge": "1026067"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rustic_engineer-1.1.0-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6393/566/rustic_engineer-1.1.0-neoforge-1.21.1.jar",
+                    "id": "6393566",
+                    "parent_id": "1026067",
+                    "hashes": {
+                        "sha1": "dc84a82cde39e4c1de980be593750d0c344099ea",
+                        "md5": "03341e7c64a84ece05186728666fb5b6"
+                    },
+                    "required_dependencies": [],
+                    "size": 1531300,
+                    "date_published": "2025-04-06T23:40:44.017Z"
                 }
             ]
         },
