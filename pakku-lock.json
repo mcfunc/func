@@ -219,84 +219,6 @@
             ]
         },
         {
-            "pakku_id": "TTNNH6NamCbsRGzG",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "additional-structures"
-            },
-            "name": {
-                "curseforge": "Additional Structures"
-            },
-            "id": {
-                "curseforge": "297680"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "AdditionalStructures-1.21-(v.6.3.1-NEO).jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6491/590/AdditionalStructures-1.21-(v.6.3.1-NEO).jar",
-                    "id": "6491590",
-                    "parent_id": "297680",
-                    "hashes": {
-                        "sha1": "5d33e90efb0af07eba7ba587b51770b54b17a56d",
-                        "md5": "da05f9def7e975fa1d0e5d06467c0a0d"
-                    },
-                    "required_dependencies": [],
-                    "size": 1543421,
-                    "date_published": "2025-05-03T15:31:42.297Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "3d4pSfKpzwBulkft",
-            "pakku_links": [
-                "FRkVElCLK7Q20UIq"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "aether-villages"
-            },
-            "name": {
-                "curseforge": "Aether Villages"
-            },
-            "id": {
-                "curseforge": "1073197"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "AetherVillages-1.21.1-1.0.8-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5895/490/AetherVillages-1.21.1-1.0.8-neoforge.jar",
-                    "id": "5895490",
-                    "parent_id": "1073197",
-                    "hashes": {
-                        "sha1": "0795d6a8934c90475c930149940937d6bea515af",
-                        "md5": "96aca81787bd80bd4d58d70384a2dd4d"
-                    },
-                    "required_dependencies": [
-                        "419699"
-                    ],
-                    "size": 647447,
-                    "date_published": "2024-11-11T23:26:39.050Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "5u7GZa8klKAhPjrr",
             "type": "MOD",
             "slug": {
@@ -1077,6 +999,196 @@
             ]
         },
         {
+            "pakku_id": "DGgcqaE4aVpFCODf",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-contraption-terminals"
+            },
+            "name": {
+                "curseforge": "Create Contraption Terminals"
+            },
+            "id": {
+                "curseforge": "1059879"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createcontraptionterminals-1.21-1.2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6265/274/createcontraptionterminals-1.21-1.2.0.jar",
+                    "id": "6265274",
+                    "parent_id": "1059879",
+                    "hashes": {
+                        "sha1": "b9b1af2c3642d51cac2129cea2805639c5affad6",
+                        "md5": "d370431b6f0f192b36120e3f9804b64e"
+                    },
+                    "required_dependencies": [
+                        "328085",
+                        "378609"
+                    ],
+                    "size": 89346,
+                    "date_published": "2025-03-04T22:30:25.513Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "UXDzYtBj69WfJUuu",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "createaddition"
+            },
+            "name": {
+                "curseforge": "Create Crafts & Additions"
+            },
+            "id": {
+                "curseforge": "439890"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createaddition-1.4.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6445/614/createaddition-1.4.2.jar",
+                    "id": "6445614",
+                    "parent_id": "439890",
+                    "hashes": {
+                        "sha1": "dbb2a6d5cf509da8c460d1ffe57db06c5272070f",
+                        "md5": "853d0f430683ec901542b479c1d292be"
+                    },
+                    "required_dependencies": [],
+                    "size": 1634683,
+                    "date_published": "2025-04-20T21:15:47.683Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RqwRUEPUiCwm0LfF",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-encased"
+            },
+            "name": {
+                "curseforge": "Create Encased"
+            },
+            "id": {
+                "curseforge": "829380"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Create Encased-1.21.1-1.7.1-fix2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6387/195/Create Encased-1.21.1-1.7.1-fix2.jar",
+                    "id": "6387195",
+                    "parent_id": "829380",
+                    "hashes": {
+                        "sha1": "227621962f24e8ecb0f1e07320d5cf380504cc57",
+                        "md5": "fe8a3ce8706ed990e9e4e167ee57620d"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 1778267,
+                    "date_published": "2025-04-05T12:07:31.680Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "W70BV5DfPGcc6EIP",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-mechanical-chicken"
+            },
+            "name": {
+                "curseforge": "Create Mechanical Chicken"
+            },
+            "id": {
+                "curseforge": "1107296"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_mechanical_chicken-1.21.1-1.3.1-6.0.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6510/619/create_mechanical_chicken-1.21.1-1.3.1-6.0.4.jar",
+                    "id": "6510619",
+                    "parent_id": "1107296",
+                    "hashes": {
+                        "sha1": "230359c8031135ded766380974fc84befabb6064",
+                        "md5": "0f4f23017bd2c253fd066ca5f7b97b0b"
+                    },
+                    "required_dependencies": [
+                        "1253573",
+                        "328085"
+                    ],
+                    "size": 206653,
+                    "date_published": "2025-05-08T22:31:01.780Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BV6MJ1sEXwExbhYv",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-ore-excavation"
+            },
+            "name": {
+                "curseforge": "Create Ore Excavation"
+            },
+            "id": {
+                "curseforge": "649832"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createoreexcavation-1.21-1.6.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6440/625/createoreexcavation-1.21-1.6.3.jar",
+                    "id": "6440625",
+                    "parent_id": "649832",
+                    "hashes": {
+                        "sha1": "967e51835969560530e4096c984e0975a996d6cd",
+                        "md5": "ea857de75a3aa9245f071b98d9f4ef34"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 448978,
+                    "date_published": "2025-04-19T16:12:42.400Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "z0URXprcpyi1etiF",
             "pakku_links": [
                 "U2DDql4kKiqmYWIY"
@@ -1115,6 +1227,114 @@
                     ],
                     "size": 694308,
                     "date_published": "2025-05-08T19:04:15.820Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RhoTfWPqoaUoOMlt",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-stuff-additions"
+            },
+            "name": {
+                "curseforge": "Create Stuff 'N Additions"
+            },
+            "id": {
+                "curseforge": "466792"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-stuff-additions1.21.1_v2.1.0e.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6448/12/create-stuff-additions1.21.1_v2.1.0e.jar",
+                    "id": "6448012",
+                    "parent_id": "466792",
+                    "hashes": {
+                        "sha1": "5de330acd44af9e09430a7710687ad176dabf1e2",
+                        "md5": "979e415b8234dfc3649a49bc35cf263a"
+                    },
+                    "required_dependencies": [],
+                    "size": 1318700,
+                    "date_published": "2025-04-21T13:42:58.157Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WPwUr1hsWY6vysB4",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-aquatic-ambitions"
+            },
+            "name": {
+                "curseforge": "Create: Aquatic Ambitions"
+            },
+            "id": {
+                "curseforge": "1005676"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_aquatic_ambitions_neoforge-1.21.1-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6393/758/create_aquatic_ambitions_neoforge-1.21.1-1.1.4.jar",
+                    "id": "6393758",
+                    "parent_id": "1005676",
+                    "hashes": {
+                        "sha1": "f8480fbf16f2ac5fd55f3cf9df6f34fc1741bfe9",
+                        "md5": "a39f5dab78ddf18dc5c29d86108ec04d"
+                    },
+                    "required_dependencies": [],
+                    "size": 325304,
+                    "date_published": "2025-04-07T01:12:06.303Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "M6kQR0FkHtlqt4dn",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "bellsandwhistles"
+            },
+            "name": {
+                "curseforge": "Create: Bells & Whistles"
+            },
+            "id": {
+                "curseforge": "905040"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bellsandwhistles-0.4.7-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6299/879/bellsandwhistles-0.4.7-1.21.1.jar",
+                    "id": "6299879",
+                    "parent_id": "905040",
+                    "hashes": {
+                        "sha1": "85944080f8bd47dad64a8193a70662cd9ddbb200",
+                        "md5": "5f4d8adfa8bf7407fb387a93ea408848"
+                    },
+                    "required_dependencies": [],
+                    "size": 193619,
+                    "date_published": "2025-03-13T14:14:32.707Z"
                 }
             ]
         },
@@ -1159,6 +1379,120 @@
             ]
         },
         {
+            "pakku_id": "DAVRdiPFyQwu8hvq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-central-kitchen"
+            },
+            "name": {
+                "curseforge": "Create: Central Kitchen"
+            },
+            "id": {
+                "curseforge": "820977"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-central-kitchen-2.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6518/339/create-central-kitchen-2.0.2.jar",
+                    "id": "6518339",
+                    "parent_id": "820977",
+                    "hashes": {
+                        "sha1": "9db13694fdff38534428d7f0c0594514247291e9",
+                        "md5": "fc2cc43bbe28cef95012e418b0f67574"
+                    },
+                    "required_dependencies": [
+                        "1216624"
+                    ],
+                    "size": 214307,
+                    "date_published": "2025-05-11T05:53:09.520Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vnYERKyC8hmnYRsh",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-dragons-plus"
+            },
+            "name": {
+                "curseforge": "Create: Dragons Plus"
+            },
+            "id": {
+                "curseforge": "1216624"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-dragons-plus-1.5.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6518/341/create-dragons-plus-1.5.0.jar",
+                    "id": "6518341",
+                    "parent_id": "1216624",
+                    "hashes": {
+                        "sha1": "e9eb542d34f8c14f0ac400274b8a21a36c046030",
+                        "md5": "443d2f8f3f9ca67aecffd4a777d0061d"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 635189,
+                    "date_published": "2025-05-11T05:53:23.047Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "357VcJyc4XDITRoX",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-dreams-desires"
+            },
+            "name": {
+                "curseforge": "Create: Dreams n' Desires"
+            },
+            "id": {
+                "curseforge": "864781"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6282/649/Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
+                    "id": "6282649",
+                    "parent_id": "864781",
+                    "hashes": {
+                        "sha1": "1e44ead3684041838e14608894ff8b1fb391f53e",
+                        "md5": "6975c388254ce714cd615d1c7646bdf2"
+                    },
+                    "required_dependencies": [],
+                    "size": 18948099,
+                    "date_published": "2025-03-09T04:49:32.857Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "yf9sR2ipk1CfsnJz",
             "type": "MOD",
             "slug": {
@@ -1198,6 +1532,158 @@
             ]
         },
         {
+            "pakku_id": "CM40zzltf38JEx1k",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-easy-structures"
+            },
+            "name": {
+                "curseforge": "Create: Easy Structures"
+            },
+            "id": {
+                "curseforge": "949158"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6344/382/create_easy_structures-0.2a-neoforge-1.21.1.jar",
+                    "id": "6344382",
+                    "parent_id": "949158",
+                    "hashes": {
+                        "sha1": "5878bdf8facd954cce7da3a55ab1d5274fe4ef6d",
+                        "md5": "183f48dd9ec8a62cf2d2654172cceb05"
+                    },
+                    "required_dependencies": [],
+                    "size": 469490,
+                    "date_published": "2025-03-25T13:56:46.593Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lCka5EWZQ0z1YeHI",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-enchantment-industry"
+            },
+            "name": {
+                "curseforge": "Create: Enchantment Industry"
+            },
+            "id": {
+                "curseforge": "688768"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-enchantment-industry-2.1.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6521/935/create-enchantment-industry-2.1.3.jar",
+                    "id": "6521935",
+                    "parent_id": "688768",
+                    "hashes": {
+                        "sha1": "efccb7b05aa13b455073a63078c47f0415eaecb6",
+                        "md5": "237f9abd252b287d8428b12ce4409a0e"
+                    },
+                    "required_dependencies": [
+                        "1216624"
+                    ],
+                    "size": 643667,
+                    "date_published": "2025-05-12T09:52:38.123Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kkmMY2UPOiSJcVnR",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-ender-link"
+            },
+            "name": {
+                "curseforge": "Create: Ender Link"
+            },
+            "id": {
+                "curseforge": "1233526"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createenderlink-1.3.1+mc1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6515/741/createenderlink-1.3.1+mc1.21.1-neoforge.jar",
+                    "id": "6515741",
+                    "parent_id": "1233526",
+                    "hashes": {
+                        "sha1": "705aa6d7892a0325d16d46852c1519eebe7c5172",
+                        "md5": "c258f248826152b92d401f4ec5d0fa2b"
+                    },
+                    "required_dependencies": [
+                        "328085",
+                        "351264"
+                    ],
+                    "size": 325995,
+                    "date_published": "2025-05-10T12:22:03.840Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "56Yx1f4Yssl8EMYY",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "garnished"
+            },
+            "name": {
+                "curseforge": "Create: Garnished"
+            },
+            "id": {
+                "curseforge": "923277"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "garnished-2.1.3.2+1.21.1-neoforged.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6506/269/garnished-2.1.3.2+1.21.1-neoforged.jar",
+                    "id": "6506269",
+                    "parent_id": "923277",
+                    "hashes": {
+                        "sha1": "53c04f2d7ab86e712c47a6443d8624003786eaf9",
+                        "md5": "556d1b63ab068eaf8efd87c286b18588"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 3640243,
+                    "date_published": "2025-05-07T18:58:53.880Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "AVBGCxX2ams3Djw0",
             "type": "MOD",
             "slug": {
@@ -1230,6 +1716,82 @@
                     "required_dependencies": [],
                     "size": 978866,
                     "date_published": "2025-03-22T15:45:19.253Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bAhQzLDp0F3eOV1l",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-power-loader"
+            },
+            "name": {
+                "curseforge": "Create: Power Loader"
+            },
+            "id": {
+                "curseforge": "936020"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_power_loader-2.0.0-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6514/713/create_power_loader-2.0.0-mc1.21.1.jar",
+                    "id": "6514713",
+                    "parent_id": "936020",
+                    "hashes": {
+                        "sha1": "8e911e55089ce0c494976042b5dc1b7ad7804933",
+                        "md5": "f36c0c14481fca6910f56e02bcbec8d4"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 403639,
+                    "date_published": "2025-05-10T04:09:34.810Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "eqdmMT7fpdkavk46",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-qol"
+            },
+            "name": {
+                "curseforge": "Create: Quality Of Life"
+            },
+            "id": {
+                "curseforge": "905508"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Create Quality of Life-1.21.1-1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6490/560/Create Quality of Life-1.21.1-1.4.jar",
+                    "id": "6490560",
+                    "parent_id": "905508",
+                    "hashes": {
+                        "sha1": "6237b0d5b061dcb2a76d0bfd33576cc00e6a8b75",
+                        "md5": "a702074d0a9ee604285e477372284f98"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 1090725,
+                    "date_published": "2025-05-03T10:27:31.007Z"
                 }
             ]
         },
@@ -1349,6 +1911,44 @@
                     ],
                     "size": 1444900,
                     "date_published": "2025-05-12T19:53:21.500Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1LzQGA8spAFkeLgt",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-trading-floor"
+            },
+            "name": {
+                "curseforge": "Create: Trading Floor"
+            },
+            "id": {
+                "curseforge": "1102591"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trading_floor-3.0.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6516/617/trading_floor-3.0.8.jar",
+                    "id": "6516617",
+                    "parent_id": "1102591",
+                    "hashes": {
+                        "sha1": "033a18bd53125d6bf1a4d27b935dc6bfdf54e5bb",
+                        "md5": "821b1eb45380ebf301aecbea4378abda"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 210038,
+                    "date_published": "2025-05-10T17:34:35.467Z"
                 }
             ]
         },
@@ -3025,6 +3625,43 @@
             ]
         },
         {
+            "pakku_id": "vWMdi2KzmaHykCkH",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fusion-connected-textures"
+            },
+            "name": {
+                "curseforge": "Fusion (Connected Textures)"
+            },
+            "id": {
+                "curseforge": "854949"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fusion-1.2.7b-neoforge-mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6453/834/fusion-1.2.7b-neoforge-mc1.21.jar",
+                    "id": "6453834",
+                    "parent_id": "854949",
+                    "hashes": {
+                        "sha1": "258f3c9df7d166c3f3bbfc4af607f007a92ae82d",
+                        "md5": "b4e4a5a390a59333da1bc831634bef00"
+                    },
+                    "required_dependencies": [],
+                    "size": 529007,
+                    "date_published": "2025-04-22T22:33:03.833Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6HlRJpPCpKu2DW6H",
             "pakku_links": [
                 "0y995AumzzaV77JF"
@@ -4663,6 +5300,89 @@
                     ],
                     "size": 2868368,
                     "date_published": "2025-05-01T10:16:17.247Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "CD2oSbJREPL3zXsC",
+            "pakku_links": [
+                "vWMdi2KzmaHykCkH"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "rechiseled"
+            },
+            "name": {
+                "curseforge": "Rechiseled"
+            },
+            "id": {
+                "curseforge": "558998"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rechiseled-1.1.6a-neoforge-mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5663/514/rechiseled-1.1.6a-neoforge-mc1.21.jar",
+                    "id": "5663514",
+                    "parent_id": "558998",
+                    "hashes": {
+                        "sha1": "26e4487b4e4441702a984c12af5e521b4b1b0bef",
+                        "md5": "c27772e602930ff3609c91f583d09815"
+                    },
+                    "required_dependencies": [
+                        "438332",
+                        "854949",
+                        "454372"
+                    ],
+                    "size": 3484553,
+                    "date_published": "2024-08-25T21:51:53.103Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nIWi8eOAr3yQ8LZ1",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "rechiseled-create"
+            },
+            "name": {
+                "curseforge": "Rechiseled: Create"
+            },
+            "id": {
+                "curseforge": "888624"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rechiseledcreate-1.0.2-neoforge-mc1.21.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6401/203/rechiseledcreate-1.0.2-neoforge-mc1.21.jar",
+                    "id": "6401203",
+                    "parent_id": "888624",
+                    "hashes": {
+                        "sha1": "b9ff53446aa017d0bfac5473ad1d248eb3e9aaf5",
+                        "md5": "d27f098ca0d7566847aced9e27bd264f"
+                    },
+                    "required_dependencies": [
+                        "558998",
+                        "328085"
+                    ],
+                    "size": 659383,
+                    "date_published": "2025-04-09T00:00:03.133Z"
                 }
             ]
         },
