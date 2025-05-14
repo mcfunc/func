@@ -1,6 +1,6 @@
-# Tech Innovations Mod Pack
+# FUNC
 
-Welcome to Tech Innovations, a tech-oriented Minecraft mod pack centered around the Create mod ecosystem with extensive automation, exploration, and quality-of-life improvements. This pack offers a perfect balance between technical creativity and adventure.
+Welcome to FUNC, a tech-oriented Minecraft mod pack centered around the Create mod ecosystem with extensive automation, exploration, and quality-of-life improvements. This pack offers a perfect balance between technical creativity and adventure.
 
 ## Unique Features
 
