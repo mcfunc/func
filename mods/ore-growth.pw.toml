@@ -1,0 +1,13 @@
+name = "Ore Growth"
+filename = "oregrowth-1.1.5-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d81ef44f6c974097b48a19c6a91cdc5ed35af521"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6427462
+project-id = 919885

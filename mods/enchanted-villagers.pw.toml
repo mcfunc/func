@@ -1,0 +1,13 @@
+name = "Enchanted Villagers"
+filename = "enchanted_villagers-2.00.13-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03efa12066c9f000967ea4dc09bd69736f66e6ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5845037
+project-id = 1107459

@@ -1,0 +1,13 @@
+name = "GrindstonePlus"
+filename = "grindstone_plus_neoforge_1.21.1-1.0.0fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aac904ebf2a2a4114df4e4b48adec76363f48715"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6525712
+project-id = 1262806

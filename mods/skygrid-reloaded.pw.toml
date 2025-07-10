@@ -1,0 +1,13 @@
+name = "SkyGrid Reloaded"
+filename = "skygrid_reloaded-1.3.2-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c500b374cce1780e7426ccee0b0e5f74507c679"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6605618
+project-id = 1243115

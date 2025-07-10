@@ -1,0 +1,13 @@
+name = "End Villager Trader"
+filename = "end_villager_trader-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57567d7d915d8b0bba931d704f4e684a752aa51a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6255766
+project-id = 1204232
