@@ -1,0 +1,13 @@
+name = "FUNC"
+author = "Robbyfox"
+version = "0.4.8"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6d05546631f3a8f8e9c76ef1131dcf92ef9c0296ffe6128fad5ba3888c85864a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"

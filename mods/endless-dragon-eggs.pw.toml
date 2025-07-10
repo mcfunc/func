@@ -1,0 +1,13 @@
+name = "Endless Dragon Eggs"
+filename = "endless-dragon-eggs-neoforge-1.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1466938c1fd3f7de44d3494efebe3b4565d95d2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6319098
+project-id = 1223024
